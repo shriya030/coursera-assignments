@@ -12,7 +12,7 @@ h1 {
 }
 
 .title {
-  border: 2px solid black;
+  border: 1px solid black;
   font-weight: bold;
   position: absolute;
   right: 0;
@@ -47,7 +47,7 @@ h1 {
 
 div.section {
   background: #A7B8E6;
-  border: 2px solid black;
+  border: 1px solid black;
   position: relative;
   margin: 10px;
 }
